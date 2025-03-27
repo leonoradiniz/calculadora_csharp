@@ -8,8 +8,8 @@ Esse projeto foi um desafio proposto pelo Grupo de Estudos de Algoritmo da Comun
 <h2>Detalhes importantes do projeto:</h2>
 
 - No caso de divisão por 0, o programa exibe a mensagem "Impossível calcular!".
-- Uma estrutura de repetição foi implementada: o programa questiona se o usuário quer inserir novos dados para mais cálculos, e enquanto o usuário responder com "SIM", o bloco de código irá se repetir.
-- **Ponto de melhoria futura:** Caso o usuário responda o programa nesse momento com algum número (e não texto), ocorre um erro.
+- Uma estrutura de repetição foi implementada: o programa questiona se o usuário quer inserir novos dados para mais cálculos, e enquanto o usuário responder com "SIM", o bloco de código irá se repetir. Caso digite qualquer outro texto, uma mensagem que anuncia o fim do programa é impressa no console.
+- **Ponto de melhoria futura:** Caso o usuário responda o programa nesse momento com alguma mensagem que nao seja string (texto), ocorre um erro.
 
 
 <h2>O que é preciso para você rodar o projeto na sua máquina</h2>
